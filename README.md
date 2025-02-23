@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Nonis27
+- 👀 I’m interested in programming and crypto
+- 🌱 I’m currently learning C++
+- 📫 How to reach me, Discord @nonis_27
+- 😄 Pronouns: he/him
+
+<!---
+Nonis27/Nonis27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
