@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nonis27
 - 👀 I’m interested in programming and crypto
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: Discord @nonis_27, email: nonisnini27@gmail.com
+- 📫 How to reach me: Discord: nonis_27, email: nonisnini27@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
