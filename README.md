@@ -1,3 +1,1 @@
-- Hi, I’m @Nonis27
-- How to reach me: Discord: nonis_27, email: nonisnini27@gmail.com
-- Pronouns: he/him
+Hi, I’m Nonis27
